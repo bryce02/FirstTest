@@ -9,7 +9,7 @@ int donumber(int x,int n)
 int main()
 {
 	int a,b;
-	cout<<"ÊäÈëxºÍnµÄÖµ";
+	cout<<"è¾“å…¥xå’Œnçš„å€¼";
 	cin>>a>>b;
 	int c = donumber(a,b);
 	cout<<c<<endl;
